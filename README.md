@@ -34,3 +34,9 @@ VALUE – Value represents the brightness of the color.
 
 # Process:
 After installing the prerequisites, run the Air-canvas.py file
+
+#Applications: 
+
+Applications can be used in video games, and to control smart devices without using controller. They are also super useful in presentation.
+
+In this project, we implemented a system that used camera to locate and track a fingertip of index finger. When we arbitrarily move the fingertip in the air (within range of camera view), trajectory of fingertip motion will be recorded and drawn in the video sequences and shown on the screen.
