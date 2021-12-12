@@ -35,7 +35,7 @@ VALUE – Value represents the brightness of the color.
 # Process:
 After installing the prerequisites, run the Air-canvas.py file
 
-#Applications: 
+# Applications: 
 
 Applications can be used in video games, and to control smart devices without using controller. They are also super useful in presentation.
 
