@@ -19,7 +19,7 @@ Image segmentation is the process of labeling every pixel in an image, where eac
 2. Prepare the canvas frame and put the respective ink buttons on it. 
 3. Adjust the trackbar values for finding the mask of coloured marker.
 4. Preprocess the mask with morphological operations.(Erotion and dilation)
-5. Detect the contours, find the center coordinates of largest contour and keep storing them in the array for successive frames .(Arrays for drawing points on canvas)
+5. Detect the contours (We are detecting red node currently), find the center coordinates of largest contour and keep storing them in the array for successive frames .(Arrays for drawing points on canvas)
 6. Finally draw the points stored in array on the frames and canvas
 
 Q. What is HSV Colour Space?
